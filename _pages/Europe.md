@@ -16,7 +16,7 @@ of Paris, set in two beautiful historic masion and free to visit. The creative a
 art of France will always have the highest place in my heart.
 
 <div class="row">
-  <div class="col-sm-6 mt-3">
+   <div class="col-sm-4 mt-3">
     {% include figure.liquid path="assets/img/muse_vini.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     <div class="caption">Musée Carnavalet, Paris, 2024</div>
   </div>

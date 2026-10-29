@@ -1,221 +1,124 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": []
+    "name": "Vinita Deshmukh",
+    "label": "Atmospheric scientist",
+    "url": "https://vinita-d.github.io",
+    "summary": "Atmospheric scientist working on the large-scale weather patterns behind European weather and climate extremes, using ERA5, Lagrangian models, climate models and machine learning.",
+    "location": { "city": "Vienna", "countryCode": "AT" },
+    "profiles": [
+      { "network": "GitHub", "username": "Vinita-D", "url": "https://github.com/Vinita-D" },
+      { "network": "ORCID", "username": "0009-0009-6012-3348", "url": "https://orcid.org/0009-0009-6012-3348" }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "University of Vienna, Department of Meteorology and Geophysics",
+      "position": "Postdoctoral researcher",
+      "location": "Vienna, Austria",
+      "startDate": "2025-02",
+      "endDate": "2026-09",
+      "summary": "Heat and moisture transport in weather extremes, in the Horizon Europe project Edu4ClimAte.",
+      "highlights": [
+        "Developed a Lagrangian moist static energy framework that attributes heatwave intensity to surface fluxes and transported air masses.",
+        "Validated the framework on Storm Boris.",
+        "Manuscript submitted to Weather and Climate Dynamics."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Laboratoire de Météorologie Dynamique (LMD), CNRS / ENS-PSL",
+      "position": "PhD researcher",
+      "location": "Paris, France",
+      "startDate": "2021-10",
+      "endDate": "2024-12",
+      "summary": "Dynamics of atmospheric blocking and its link with warm extremes. Supervised by Gwendal Rivière and Sébastien Fromang.",
+      "highlights": [
+        "Ran and analysed long-term simulations of a dry general circulation model forced towards the ERA5 climatology.",
+        "Evaluated model blocking against ERA5 and attributed systematic biases, using Eulerian and Lagrangian methods."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Uppsala University",
+      "position": "Visiting PhD researcher (EDIPI exchange)",
+      "location": "Uppsala, Sweden",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Link between blocking characteristics and heatwaves, with Gabriele Messori.",
+      "highlights": [
+        "Developed a quasi-Lagrangian heatwave detection and quantified the statistical link between blocking and heatwave characteristics."
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Imperial College London",
+      "position": "Visiting PhD researcher (EDIPI exchange)",
+      "location": "London, United Kingdom",
+      "startDate": "2023-02",
+      "endDate": "2023-05",
+      "summary": "Gulf Stream latent heat fluxes and Euro-Atlantic blocking, with Arnaud Czaja and Jamie Mathews.",
+      "highlights": [
+        "Analysed ECMWF-IFS experiments with suppressed latent heat fluxes for the 2010 British Isles cold spell and the 2019 European heatwave."
+      ]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Indian Institute of Tropical Meteorology (IITM)",
+      "position": "Master's thesis",
+      "location": "Pune, India",
+      "startDate": "2020-01",
+      "endDate": "2020-06",
+      "summary": "Convective characteristics of monsoon low-pressure systems from TRMM satellite radar observations."
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+    { "organization": "Vienna Klima Biennale", "position": "Organiser, workshop “How to read storms”", "startDate": "2026" },
+    { "organization": "University of Vienna", "position": "Founder and organiser, weekly weather discussion group", "startDate": "2025" },
+    { "organization": "Edu4ClimAte", "position": "Co-organiser, Autumn School on atmospheric transport modelling, Crete", "startDate": "2025" },
+    { "organization": "University of Vienna", "position": "Teaching assistant, Atmospheric Thermodynamics", "startDate": "2025" },
+    { "organization": "IUGG General Assembly, Berlin", "position": "Elected Early-Career Researcher Representative", "startDate": "2023" },
+    { "organization": "LMD-ENS, Paris", "position": "Initiated and led the Café des Géosciences", "startDate": "2022" }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "École normale supérieure – Université PSL (LMD), Paris",
+      "area": "Atmospheric Dynamics",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2021-10",
+      "endDate": "2024-12",
+      "courses": ["Thesis: Dynamics of atmospheric blocking and its link to extreme temperature events"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
+      "institution": "Savitribai Phule Pune University, with IITM, Pune",
+      "area": "Atmospheric Science",
+      "studyType": "MSc",
+      "startDate": "2019-06",
+      "endDate": "2021-06"
+    },
+    {
+      "institution": "Fergusson College, Pune",
       "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "studyType": "BSc",
+      "startDate": "2015-06",
+      "endDate": "2018-06"
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+    { "title": "Marie Skłodowska-Curie ITN fellowship (EDIPI, Horizon 2020)", "date": "2021-10", "awarder": "European Commission" },
+    { "title": "SHE-INSPIRE fellowship", "date": "2017", "summary": "For Bachelor's studies in Physics." }
   ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+    { "name": "Programming", "keywords": ["Python (xarray, numpy, pandas, scipy, scikit-learn, matplotlib, Cartopy)", "Fortran", "Git", "Linux/HPC"] },
+    { "name": "Models and tools", "keywords": ["FLEXPART", "LAGRANTO", "WRF", "DYNAMICO", "ICON (training)"] },
+    { "name": "Data", "keywords": ["ERA5", "ECMWF-IFS", "TRMM", "NetCDF", "GRIB"] }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+    { "language": "Marathi", "fluency": "Native" },
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Hindi", "fluency": "Fluent" },
+    { "language": "French", "fluency": "A2" },
+    { "language": "German", "fluency": "A1" }
   ],
   "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
-    }
+    { "name": "Tennis" },
+    { "name": "Hiking" },
+    { "name": "Dancing" },
+    { "name": "Languages and European cultures" }
   ]
 }
