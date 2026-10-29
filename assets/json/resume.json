@@ -3,11 +3,7 @@
     "name": "Vinita Deshmukh",
     "label": "Atmospheric scientist",
     "url": "https://vinita-d.github.io",
-    "summary": "Atmospheric researcher (early career) with nearly 5 years of experience in climate modelling, evaluating model performance against
-	observational datasets, and statistically linking atmospheric dynamics to weather extremes. Strong programming and analytical skills (Python,
-	HPC/Linux, Fortran) with extensive experience in weather and climate modelling and handling large climate datasets and model outputs. Part
-	of international research collaborations and interdisciplinary projects, with the ability to communicate complex scientific concepts from
-	specialists to a general audience. With a growing focus on AI and machine learning for weather and climate",
+        "summary": "Atmospheric researcher (early career) with nearly 5 years of experience in climate modelling, evaluating model performance against observational datasets, and statistically linking atmospheric dynamics to weather extremes. Strong programming and analytical skills (Python, HPC/Linux, Fortran) with extensive experience in weather and climate modelling and handling large climate datasets and model outputs. Part of international research collaborations and interdisciplinary projects, with the ability to communicate complex scientific concepts to specialists and a general audience. Growing focus on AI and machine learning for weather and climate.",
     "location": {
       "city": "Vienna",
       "countryCode": "AT"
