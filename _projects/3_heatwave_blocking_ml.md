@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Which atmospheric blocing triggers heatwave? (not all of them!)
+title: Atmopsheric blocking triggers heatwaves ( Not all of them!)
 description: A machine-learning diagnosis of ERA5 blocking and heatwaves with scikit-learn
 img: assets/img/fig2_ml_models.png
 importance: 1
