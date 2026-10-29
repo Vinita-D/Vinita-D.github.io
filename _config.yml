@@ -229,7 +229,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: ["_pages", "googlec1b3c4041f6f594e.html"]
 exclude:
   - AGENTS.md
   - al-folio-upgrade-report.md
@@ -252,7 +252,6 @@ exclude:
   - gems/
   - migrations/
   - vendor
-  - googlec1b3c4041f6f594e.html
 keep_files:
   - CNAME
   - .nojekyll
