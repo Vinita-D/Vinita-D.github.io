@@ -19,6 +19,6 @@ travels differently. Tracing it backwards in time (Lagrangian trajectories) show
 atmosphere, part of this air rises and is heated by condensation, which a dry model cannot do.
 
 {% include figure.liquid path="assets/img/projects/dry_gcm.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-<div class="caption">[One sentence about what the figure shows]</div>
+<div class="caption">[schematic representing the main air masses entering the blocking ridge at the blocking onset for (a) reanalysis and (b) dry model. ]</div>
 
 Paper: [Journal of the Atmospheric Sciences, 2024](https://doi.org/10.1175/JAS-D-24-0048.1)
