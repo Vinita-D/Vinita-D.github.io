@@ -2,7 +2,7 @@
 layout: page
 title: Can a dry model reproduce atmospheric blocking?
 description: What blocking looks like in an atmosphere without water
-img: assets/img/dry_gcm.png
+img: assets/img/gcm_dry.png
 importance: 4
 category: research
 ---

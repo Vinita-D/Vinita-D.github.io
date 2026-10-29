@@ -30,6 +30,6 @@ with a big band.
 <div class="row">
   <div class="col-sm-4 mt-3">
     {% include figure.liquid path="assets/img/jazz.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    <div class="caption">Cabaret Sauvage, Paris, [year]</div>
+    <div class="caption">Cabaret Sauvage, Paris, 2023</div>
   </div>
 </div>
