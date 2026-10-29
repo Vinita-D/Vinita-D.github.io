@@ -712,3 +712,6 @@ jsonresume:
   - languages
   - interests
   - references
+  
+include:
+  - google1234abcd.html
