@@ -2,7 +2,7 @@
 layout: page
 title: Can a dry model reproduce atmospheric blocking?
 description: What blocking looks like in an atmosphere without water
-img: assets/img/projects/dry_gcm.png
+img: assets/img/dry_gcm.png
 importance: 4
 category: research
 ---
@@ -20,7 +20,7 @@ of this air rises and is heated by condensation, which a dry model cannot do.
 
 <div class="row justify-content-center">
   <div class="col-sm-10 mt-3">
-    {% include figure.liquid path="assets/img/dry_gcm.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/gcm_dry.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     <div class="caption">The main air masses entering the blocking ridge at blocking onset, (a) in the real atmosphere (ERA5) and (b) in the dry model.</div>
   </div>
 </div>

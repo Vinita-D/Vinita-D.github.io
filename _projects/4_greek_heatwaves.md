@@ -2,7 +2,7 @@
 layout: page
 title: Transport of heat and moisture during a heatwave over Grecce?
 description: Following the air on its way to a heatwave
-img: assets/img/projects/greek.png
+img: assets/img/ani_cropped.gif
 importance: 4
 category: research
 ---
