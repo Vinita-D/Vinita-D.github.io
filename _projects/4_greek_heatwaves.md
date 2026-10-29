@@ -1,12 +1,22 @@
 ---
 layout: page
-title: Where does the heat in a heatwave come from?
-description: Lagrangian attribution of surface heat fluxes for Greek heatwaves
+title: Transport of heat and moisture during a heatwave over Grecce?
+description: Following the air on its way to a heatwave
+img: assets/img/projects/greek.png
 importance: 4
 category: research
 ---
 
-Using FLEXPART trajectories and ERA5 surface fluxes, I traced where the air in seven Greek
-heatwaves (1982 to 2025) picked up its heat. Two types emerged: heatwaves fed mainly by
-sensible heat from North Africa, and heatwaves fed by both Eastern Europe and North Africa
-under a Balkan block.
+This project addresses the ambiguous role of surface fluxes (the origin of heat and moisture in the atmosphere) during heatwave. In particular heatwaves over Grecce.  Using FLEXPART air-mass transport model and ERA5 data, I followed the airmass back in time from the region og heatwaves (1982 to 2025) and measured how much heat it picked up from the ground along the way. Two types appear: heatwaves heated mainly over North Africa, and heatwaves fed by
+both Eastern Europe and North Africa under a Balkan block. More complex result and finiding will be published soon :) !
+
+The animation follows the air on its way to Greece. The colour shows its moist static energy: its
+total heat, including the heat stored in its moisture.
+
+<div class="row justify-content-center">
+  <div class="col-sm-10 mt-3">
+    {% include video.liquid path="assets/video/ani_cropped.gif" class="img-fluid rounded z-depth-1" controls=true %}
+  </div>
+</div>
+
+Code: [github.com/Vinita-D/surface-flux-contribution-heatwaves](https://github.com/Vinita-D/surface-flux-contribution-heatwaves)

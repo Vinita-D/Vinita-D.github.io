@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>🥗⚽ This is me: eating healthy, in my Reve 1988 football-match winner shirt</p>
+    <p> This is me: 🥗, in my Rêve shirt</p>
 
 selected_papers: true
 social: true
@@ -23,34 +23,18 @@ latest_posts:
   limit: 3
 ---
 
-**Atmospheric scientist** with almost five years of research on the large-scale weather patterns
-behind European weather and climate extremes, climate and weather data analysis, Lagrangian modelling (FLEXPART, LAGRANTO), climate and weather modelling (GCM, ICON) and machine learning skill and tools.
+**Atmospheric scientist** expertise in large-scale weather patterns |  Lagrangian modelling (FLEXPART, LAGRANTO)| climate and weather modelling (GCM, ICON)| machine learning skill and tools.
 
-**Postdoctoral researcher** (2025–2026) at the [Department of Meteorology and Geophysics](https://img.univie.ac.at/),
-University of Vienna, in the Horizon Europe project Edu4ClimAte. I developed a Lagrangian moist
-static energy framework that attributes heatwave intensity to surface fluxes and transported air
-masses.
+- **Postdoc**, [University of Vienna](https://img.univie.ac.at/) (2025–2026): a Lagrangian framework (FLEXPART + ERA5) that traces where the heat in heatwaves comes from. Horizon Europe project Edu4ClimAte.
+- **PhD**, [LMD](https://www.lmd.ipsl.fr/), CNRS/ENS-PSL Paris (2021–2024): [atmospheric blocking and temperature extremes](https://doi.org/10.70675/76c54928zf116z4c5fz86d3z01e937560f4e). Marie Skłodowska-Curie fellow ([EDIPI](https://edipi-itn.eu/)), research stays at Imperial College London and Uppsala University.
+- **Developing machine learning skills:** [which atmospheric blocks bring heatwaves](https://github.com/Vinita-D/Blocking_to_heatwaves_ML) (scikit-learn), and open code to [track heatwaves](https://github.com/Vinita-D/Quasi_Lagrangian_heatwave_detection).
+- **Workshops:** co-organised the satellite workshop *How to read a storm* at the [Vienna Klima Biennale](https://sophiedyer.net/teaching-and-learning/how-to-read-a-storm-klima-biennale/), and the atmospheric transport modelling Autumn School of the [Edu4ClimAte consortium](https://emme-care.cyi.ac.cy/the-2025-advanced-atmospheric-observations-data-mining-modelling-autumn-school-has-been-successfully-concluded/).
+- **Weather talks:** started a weekly weather discussion group at the University of Vienna.
 
-**PhD in atmospheric dynamics** (2024) at the [Laboratoire de Météorologie Dynamique](https://www.lmd.ipsl.fr/)
-(CNRS/ENS-PSL, Paris), as **Marie Skłodowska-Curie fellow** in the [EDIPI](https://edipi-itn.eu) network,
-on [atmospheric blocking and its link to temperature extremes](https://doi.org/10.70675/76c54928zf116z4c5fz86d3z01e937560f4e),
-with research stays at Imperial College London and Uppsala University.
-
-**Building Machine learning skills.** [Blocking_to_heatwaves_ML](https://github.com/Vinita-D/Blocking_to_heatwaves_ML):
-which atmospheric blocks bring heatwaves (scikit-learn).
-[Quasi-Lagrangian heatwaves](https://github.com/Vinita-D/Quasi_Lagrangian_heatwave_detection): open code to
-detect and track heatwaves, archived on [Zenodo](https://doi.org/10.5281/zenodo.23556794).
-
-**Science communication.** Organiser of a weekly weather discussion group at the University of
-Vienna, organiser of the workshop *How to read storms* at the Vienna Klima Biennale, co-organiser
-of the Edu4ClimAte Autumn School (Crete), and initiator of the *Café des Géosciences* at LMD-ENS.
-
-**What I am looking for.** A place where physical understanding of weather and climate meets AI
-and machine learning, to work on real-world problems and make a meaningful contribution.
-Curiosity brought me here, and I want to keep learning.
-
-**Outside research:** tennis, hiking and dancing. I love living in Europe, discovering each
-country's unique culture and blending in. My French (A2) and German (A1) are works in progress, just like
-my tennis backhand.
+**Outside research:** tennis, hiking and dancing. My French (A2) and German (A1) are works in progress, just like my backhand.
 
 [Download my CV (PDF)](/assets/pdf/cv.pdf)
+
+
+
+
