@@ -38,7 +38,7 @@ with research stays at Imperial College London and Uppsala University.
 
 **Building Machine learning skills.** [Blocking_to_heatwaves_ML](https://github.com/Vinita-D/Blocking_to_heatwaves_ML):
 which atmospheric blocks bring heatwaves (scikit-learn).
-[Quasi-Lagrangian heatwaves](https://github.com/Vinita-D/quasi-lagrangian-heatwaves): open code to
+[Quasi-Lagrangian heatwaves](https://github.com/Vinita-D/Quasi_Lagrangian_heatwave_detection): open code to
 detect and track heatwaves, archived on [Zenodo](https://doi.org/10.5281/zenodo.23556794).
 
 **Science communication.** Organiser of a weekly weather discussion group at the University of

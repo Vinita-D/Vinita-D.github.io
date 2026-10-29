@@ -11,4 +11,4 @@ detects heatwaves as objects in gridded temperature data and tracks them in time
 resolution, and detects atmospheric blocks with ConTrack. It was used in my work on the link
 between blocking and heatwaves.
 
-Code: [github.com/Vinita-D/quasi-lagrangian-heatwaves](https://github.com/Vinita-D/quasi-lagrangian-heatwaves)
+Code: [github.com/Vinita-D/Quasi_Lagrangian_heatwave_detection](https://github.com/Vinita-D/Quasi_Lagrangian_heatwave_detection)
