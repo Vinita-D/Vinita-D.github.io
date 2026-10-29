@@ -1,14 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - Vinita-D
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Vinita-D/Blocking_to_heatwaves_ML
+  - Vinita-D/quasi-lagrangian-heatwaves
