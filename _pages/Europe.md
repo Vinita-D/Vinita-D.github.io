@@ -1,7 +1,7 @@
 ---
 layout: page
-title: europe & culture
-permalink: /europe/
+title: Europe & culture
+permalink: /Europe/
 description: Living in Europe, one country and one language at a time.
 nav: true
 nav_order: 6
@@ -30,6 +30,6 @@ with a big band.
 <div class="row">
   <div class="col-sm-4 mt-3">
     {% include figure.liquid path="assets/img/jazz.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    <div class="caption">Cabaret Sauvage, Paris, 2023</div>
+    <div class="caption">Le Caveau des Oubliettes, Paris, 2023</div>
   </div>
 </div>
