@@ -14,8 +14,13 @@ weeks. Weather systems then have to go around it. This is an atmospheric block.
 Under a block in summer, air sinks and warms as it descends, skies are clear and the sun heats
 the ground day after day. These are the conditions for a heatwave.
 
-In my research I found that blocks are often already in place when a heatwave begins, usually
+In my research I found that blocking are often already in place during record breaking heatwave begins, usually
 for a day or two before. Heatwaves that spend more of their life under a block tend to be more
 intense, but the block alone does not decide how long they last.
 
-[Add a figure or a recent example you discussed in the weather group.]
+<div class="row justify-content-center">
+  <div class="col-sm-9 mt-3">
+    {% include figure.liquid path="assets/img/blocking.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div class="caption">[simple weather map showing geopotenial height anomalies to represents atmospheric blocking ridge and upstream and downstreams low - which is a shape of omega (ridge) and these lows in blue on the sides of it (troughs)]</div>
+  </div>
+</div>

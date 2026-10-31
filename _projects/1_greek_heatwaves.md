@@ -15,7 +15,7 @@ total heat, including the heat stored in its moisture.
 
 <div class="row justify-content-center">
   <div class="col-sm-10 mt-3">
-    {% include video.liquid path="assets/video/ani_cropped.gif" class="img-fluid rounded z-depth-1" controls=true %}
+    {% include video.liquid path="assets/img/ani_cropped.gif" class="img-fluid rounded z-depth-1" controls=true %}
   </div>
 </div>
 
