@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-**Atmospheric scientist** with expertise in large-scale weather patterns,  Lagrangian modelling (FLEXPART, LAGRANTO), climate and weather modelling (GCM, ICON), machine learning skill and tools.
+**Atmospheric scientist** with expertise in large-scale weather patterns, extreme weather events dynamics, climate and weather modelling (WRF, GCM, ICON), airmass transport modeeling,  builidng machine learning skill and tools.
 
 - **Postdoc**, [University of Vienna](https://img.univie.ac.at/) (2025–2026): a Lagrangian framework (FLEXPART + ERA5) that traces where the heat in heatwaves comes from. Horizon Europe project Edu4ClimAte.
 - **PhD**, [LMD-IPSL](https://www.lmd.ipsl.fr/), [École normale supérieure – PSL](https://www.ens.psl.eu/), Paris (Oct 2021– Dec 2024): atmospheric blocking and temperature extremes. Marie Skłodowska-Curie fellow ([EDIPI](https://edipi-itn.eu/)), research stays at Imperial College London and Uppsala University.
