@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p> This is me: 🥗, in my Rêve shirt</p>
+    <p> Vinita/Vinnie: 🥗</p>
 
 selected_papers: true
 social: true
