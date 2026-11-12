@@ -2,7 +2,7 @@
 layout: page
 title: Atmospheric blocking can trigger heatwaves but not always ! 
 description: A small machine-learning study of atmospheric blocking and summer heatwaves (ERA5, 1979–2024)
-img: assets/img/ml_3_occurrence.png
+img: assets/img/fig2_ml_models.png
 importance: 1
 category: data science
 ---
@@ -37,7 +37,7 @@ which a heatwave could occur simply due to longer overlapping timesteps
 **Conclusions**
 - Blocking is clearly linked to heatwaves: it meets them two to three times more often than chance.
 - But a longer blocking does not clearly shows more frequent heatwaves or more severe heatwave events.
--  Block size, persistence and position tell best whether a heatwave occurs, but not how intense, long or large it becomes. That needs more complex information, such surface fluxes, heat and moisture transport, soil moisture deficient etc.
+- Block size, persistence and position tell best whether a heatwave occurs, but not how intense, long or large it becomes. That needs more complex information, such surface fluxes, heat and moisture transport, soil moisture deficient etc.
 
 <div class="row justify-content-center">
   <div class="col-sm-9 mt-3">
