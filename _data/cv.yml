@@ -8,9 +8,9 @@
     - name: Programming
       value: Python (xarray, numpy, pandas, scipy, scikit-learn, matplotlib, Cartopy), Fortran, Git, Linux/HPC
     - name: Models and tools
-      value: FLEXPART, LAGRANTO, WRF, general circulation models (DYNAMICO), ICON (training)
+      value: FLEXPART, LAGRANTO, WRF, general circulation models (DYNAMICO), ICON (training), ECMWF-IFS
     - name: Data
-      value: ERA5, ECMWF-IFS, satellite observations (TRMM), NetCDF, GRIB
+      value: ERA5, ECMWF-IFS, satellite observations (TRMM), NetCDF, GRIB, large scale geospatial dataset.
 
 - title: Experience
   type: time_table
@@ -19,15 +19,15 @@
       institution: Department of Meteorology and Geophysics, University of Vienna, Austria
       year: 2025 – 2026
       description:
-        - Developed a Lagrangian moist static energy framework that attributes heatwave intensity to surface fluxes and transported air masses.
-        - Validated the framework on Storm Boris.
-        - Part of the Horizon Europe project Edu4ClimAte; manuscript submitted to Weather and Climate Dynamics.
+        - Developed a Lagrangian moist static energy framework to quatify role of surface fluxes and warm air advection in weather extremes
+        - Validated the framework on Storm Boris and record breaking Mediterranean heatwaves 
+        - Part of the Horizon Europe project Edu4ClimAte; manuscript submitted to WCD journal with Prof. Andreas Stohl and Dr. Marina Dütsch
     - title: PhD researcher, dynamics of atmospheric blocking and its link with warm extremes
       institution: Laboratoire de Météorologie Dynamique (LMD), CNRS / ENS-PSL, Paris, France
       year: 2021 – 2024
       description:
         - Ran and analysed long-term simulations of a dry general circulation model forced towards the ERA5 climatology.
-        - Evaluated model blocking against ERA5 and attributed systematic biases, using Eulerian and Lagrangian methods.
+        - Evaluated blocking circulation and its dynamics against ERA5 and attributed systematic biases, using Eulerian and Lagrangian methods.
         - Supervised by Gwendal Rivière (LMD-ENS) and Sébastien Fromang (LSCE).
     - title: Research stay, blocking characteristics and heatwaves
       institution: Uppsala University, Sweden (EDIPI exchange)
@@ -43,7 +43,8 @@
       institution: Indian Institute of Tropical Meteorology (IITM), Pune, India
       year: 2020
       description:
-        - Convective characteristics of monsoon low-pressure systems from TRMM satellite radar observations.
+        - Diagonising convective characteristics of monsoon low-pressure systems from TRMM satellite radar observations.
+        - Thermodynamical and dynamical contribution of transition of low-pressure systems to depression in monsoon trough.
 
 - title: Education
   type: time_table
@@ -52,7 +53,7 @@
       institution: École normale supérieure – Université PSL (LMD), Paris, France
       year: 2021 – 2024
       description:
-        - Marie Skłodowska-Curie ITN fellow within EDIPI.
+        - Marie Skłodowska-Curie ITN fellow- EDIPI project.
         - "Thesis: Dynamics of atmospheric blocking and its link to extreme temperature events."
     - title: MSc in Atmospheric Science
       institution: Savitribai Phule Pune University, with IITM, Pune, India
@@ -61,7 +62,7 @@
       institution: Fergusson College, Pune, India
       year: 2015 – 2018
 
-- title: Fellowships
+- title: Fellowships and Grants
   type: time_table
   contents:
     - title: Marie Skłodowska-Curie ITN fellowship (EDIPI, Horizon 2020)
