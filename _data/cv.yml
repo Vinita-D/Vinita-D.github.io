@@ -19,16 +19,17 @@
       institution: Department of Meteorology and Geophysics, University of Vienna, Austria
       year: 2025 – 2026
       description:
-        - Developed a Lagrangian moist static energy framework to quatify role of surface fluxes and warm air advection in weather extremes
+        - Developed a Lagrangian moist static energy framework to quatify role of surface fluxes and warm air advection in weather extremes using Lagrangian trajectory modeling - FLEXPART
         - Validated the framework on Storm Boris and record breaking Mediterranean heatwaves 
         - Part of the Horizon Europe project Edu4ClimAte; manuscript submitted to WCD journal with Prof. Andreas Stohl and Dr. Marina Dütsch
     - title: PhD researcher, dynamics of atmospheric blocking and its link with warm extremes
       institution: Laboratoire de Météorologie Dynamique (LMD), CNRS / ENS-PSL, Paris, France
       year: 2021 – 2024
       description:
-        - Ran and analysed long-term simulations of a dry general circulation model forced towards the ERA5 climatology.
-        - Evaluated blocking circulation and its dynamics against ERA5 and attributed systematic biases, using Eulerian and Lagrangian methods.
-        - Supervised by Gwendal Rivière (LMD-ENS) and Sébastien Fromang (LSCE).
+        - configured and long-term simulations of a dry general circulation model forced towards the ERA5 climatology.
+        - Evaluated blocking circulation and its dynamics against ERA5 to understnad thermodynamical processes in blocking circulation.
+        - Attributed systematic biases in the model, using Eulerian and Lagrangian framework.
+        - Developed a lagrangian trajectory algorithm.
     - title: Research stay, blocking characteristics and heatwaves
       institution: Uppsala University, Sweden (EDIPI exchange)
       year: 2024
@@ -44,7 +45,7 @@
       year: 2020
       description:
         - Diagonising convective characteristics of monsoon low-pressure systems from TRMM satellite radar observations.
-        - Thermodynamical and dynamical contribution of transition of low-pressure systems to depression in monsoon trough.
+        - Evaluated thermodynamical and dynamical contribution of transition of low-pressure systems to depression in monsoon trough.
 
 - title: Education
   type: time_table
@@ -55,6 +56,7 @@
       description:
         - Marie Skłodowska-Curie ITN fellow- EDIPI project.
         - "Thesis: Dynamics of atmospheric blocking and its link to extreme temperature events."
+        - Supervised by Gwendal Rivière (LMD-ENS) and Sébastien Fromang (LSCE).
     - title: MSc in Atmospheric Science
       institution: Savitribai Phule Pune University, with IITM, Pune, India
       year: 2019 – 2021
@@ -81,9 +83,6 @@
       year: 2025
     - title: Co-organiser, Edu4ClimAte Autumn School on atmospheric transport modelling
       institution: Crete, Greece
-      year: 2025
-    - title: Teaching assistant, Atmospheric Thermodynamics
-      institution: University of Vienna, Austria
       year: 2025
     - title: Elected Early-Career Researcher Representative
       institution: IUGG General Assembly, Berlin, Germany
