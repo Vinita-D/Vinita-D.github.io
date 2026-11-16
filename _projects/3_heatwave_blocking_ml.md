@@ -19,6 +19,11 @@ category: data science
 **The question.** Can we predict a heatwave from the properties of a blocking: how long it lasts, how large
 and strong it is, and where and when it occurs? And does a longer blocking bring severe heatwaves across mid latitudes?
 
+**Methods.** Multivariate (logistic and linear) regression and random forest, built with scikit-learn.
+I learned these machine-learning methods in the
+[ECMWF "Machine Learning for Earth System Modelling" course](https://learning.ecmwf.int/course/view.php?id=99).
+
+
 **How.** Blocking and heatwaves are tracked as moving objects in ERA5 reanalysis (1979 to 2024): blocking from
 an upper-atmosphere signal (potential vorticity), heatwaves from unusually hot surface temperatures. A blocking
 is linked to a heatwave when their outlines overlap. About 800 blocking events, 13% of which were associated with
