@@ -23,10 +23,10 @@ latest_posts:
   limit: 3
 ---
 
-**Atmospheric scientist** with expertise in large-scale weather patterns, extreme weather events dynamics, climate and weather modeling (WRF, GCM, ICON), airmass transport modeling,  builidng machine learning skill and tools.
+**Atmospheric resesarcher** with expertise in large-scale weather patterns, extreme weather events dynamics, climate and weather modeling (WRF, GCM, ICON), airmass transport modeling (FLEXPART),  builidng machine learning skill and tools.
 
-- **Postdoc**, [University of Vienna](https://img.univie.ac.at/) (2025–2026): a Lagrangian framework (FLEXPART + ERA5) that traces where the heat in heatwaves comes from. Horizon Europe project Edu4ClimAte.
-- **PhD**, [LMD-IPSL](https://www.lmd.ipsl.fr/), [École normale supérieure – PSL](https://www.ens.psl.eu/), Paris (Oct 2021– Dec 2024): atmospheric blocking and temperature extremes. Marie Skłodowska-Curie fellow ([EDIPI](https://edipi-itn.eu/)), research stays at Imperial College London and Uppsala University.
+- **Postdoc**, [University of Vienna](https://img.univie.ac.at/) (2025–2026): Moisture and heat transport in weather extremes. Horizon Europe project Edu4ClimAte.
+- **PhD**, [LMD-IPSL](https://www.lmd.ipsl.fr/), [École normale supérieure – PSL](https://www.ens.psl.eu/), Paris (Oct 2021– Dec 2024): atmospheric blocking and its link with temperature extremes. Marie Skłodowska-Curie fellow ([EDIPI](https://edipi-itn.eu/)), research stays at Imperial College London and Uppsala University.
 - **Workshops:** co-organised satellite workshop *How to read a storm* at the [Vienna Klima Biennale](https://sophiedyer.net/teaching-and-learning/how-to-read-a-storm-klima-biennale/), and the atmospheric transport modelling Autumn School of the [Edu4ClimAte consortium](https://emme-care.cyi.ac.cy/the-2025-advanced-atmospheric-observations-data-mining-modelling-autumn-school-has-been-successfully-concluded/).
 - **Weather talks:** started a weekly weather discussion group at the University of Vienna.
 - **Developing machine learning skills:** [which atmospheric blocks bring heatwaves](https://github.com/Vinita-D/Blocking_to_heatwaves_ML) (scikit-learn), and open code to [track heatwaves](https://github.com/Vinita-D/Quasi_Lagrangian_heatwave_detection).
