@@ -6,6 +6,7 @@ description: A plain-language note on atmospheric blocking
 tags: weather heatwaves
 categories: weather
 ---
+Much of the extreme weather in the midlatitudes, prolonged heatwaves, droughts, and cold spells, is caused by atmospheric blocking: large, slow-moving high-pressure systems that stall the usual weather patterns for days or weeks. As the climate warms, these blocked periods seem to be getting hotter, but how blocking itself will change remains uncertain, which limits our ability to project future extremes.
 
 In the mid-latitudes, weather usually moves from west to east, carried by the jet stream.
 Sometimes a large high-pressure system settles in the path of this flow and stays for days or
